@@ -57,7 +57,13 @@ By default, the table displays up to 20 EC2 instances. Use the "Next" and "Previ
 - Express
 - React
 
+## Additional Improvements (If I Had More Time)
 
+If I had more time, I would consider making the following improvements to the project:
+
+- Changing the design to be more modern and understandable, especially around the page where the EC2 instance table is displayed.
+- Adding additional tests to the registration input, mainly around the keys, to ensure their validity and prevent errors or restricted access.
+- Updating the UI and providing a user-friendly message when clicking the "Retrieve EC2 Instances for Selected Region" button if there is no more information to retrieve from AWS.
 
 
 
